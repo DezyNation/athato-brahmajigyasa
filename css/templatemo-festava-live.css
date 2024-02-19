@@ -1034,6 +1034,10 @@ strong {
     margin-top: 4rem;
   }
 
+  .hide-mobile{
+    display: none !important;
+  }
+
 }
 
 @media screen and (max-width: 480px) {

@@ -720,14 +720,32 @@ strong {
 
 .schedule-table .pop-background-image {
   background-image: url('../images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg');
+  background-size: cover;
 }
 
 .schedule-table .rock-background-image {
   background-image: url('../images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg');
+  background-size: cover;
+}
+
+.schedule-table .stress-background-image {
+  background-image: url('../images/nicholas-green-unsplash-blur.jpg');
+  background-size: cover;
+}
+
+.schedule-table .yoga-background-image {
+  background-image: url('../images/pexels-alexander-suhorucov-6457579.jpg');
+  background-size: cover;
+}
+
+.schedule-table .chant-background-image {
+  background-image: url('https://vicd108.files.wordpress.com/2018/01/1978-08-32.jpg');
+  background-size: cover;
 }
 
 .schedule-table .country-background-image {
   background-image: url('../images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg');
+  background-size: cover;
 }
 
 .table-background-image-wrap {
